@@ -110,7 +110,7 @@ After execution:
 
 * Base model: klue/roberta-large
 * Fine-tuning: LoRA (PEFT)
-* Number of labels: 47
+* Number of labels: 45
 
 ---
 
