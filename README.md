@@ -49,7 +49,7 @@ The dataset must contain the following columns:
 Open the Jupyter Notebook:
 
 ```text
-train_intent.ipynb
+main.ipynb
 ```
 
 Run all cells in order.
