@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+peft
+scikit-learn
+pandas
+matplotlib
+seaborn
+openpyxl
