@@ -114,6 +114,17 @@ After execution:
 
 ---
 
+## Results
+
+| Model            | Top-1 Accuracy | Top-3 Accuracy |
+|------------------|----------------|----------------|
+| RoBERTa-large    | 0.9467         | 0.9970         |
+
+- Top-1 Accuracy improved by approximately 10% after dataset refinement
+- Top-3 Accuracy reached near 100%
+
+---
+
 ## Notes
 
 * CPU training is extremely slow
